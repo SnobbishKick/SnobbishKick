@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning MERN Stack developing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amalajijkl@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 SnobbishKick/SnobbishKick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
